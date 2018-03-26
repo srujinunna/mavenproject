@@ -1,0 +1,31 @@
+Mon Mar 26 14:30:13 IST 2018  [debug] AvalonLogChute initialized using file 'velocity.log'
+Mon Mar 26 14:30:13 IST 2018  [trace] *******************************************************************
+Mon Mar 26 14:30:13 IST 2018  [debug] Starting Apache Velocity v1.5 (compiled: 2007-02-22 08:52:29)
+Mon Mar 26 14:30:13 IST 2018  [trace] RuntimeInstance initializing.
+Mon Mar 26 14:30:13 IST 2018  [debug] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Mon Mar 26 14:30:13 IST 2018  [debug] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Mar 26 14:30:13 IST 2018  [debug] Using logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Mar 26 14:30:13 IST 2018  [debug] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Mon Mar 26 14:30:13 IST 2018  [trace] FileResourceLoader : initialization starting.
+Mon Mar 26 14:30:13 IST 2018  [debug] Do unicode file recognition:  false
+Mon Mar 26 14:30:13 IST 2018   [info] FileResourceLoader : adding path 'E:\Practice\maven\project4\src\main\torque\templates'
+Mon Mar 26 14:30:13 IST 2018  [trace] FileResourceLoader : initialization complete.
+Mon Mar 26 14:30:13 IST 2018  [trace] ClasspathResourceLoader : initialization complete.
+Mon Mar 26 14:30:13 IST 2018  [debug] ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Mon Mar 26 14:30:13 IST 2018  [trace] Default ResourceManager initialization complete.
+Mon Mar 26 14:30:13 IST 2018  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Mon Mar 26 14:30:13 IST 2018  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Mon Mar 26 14:30:13 IST 2018  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Mon Mar 26 14:30:13 IST 2018  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Mon Mar 26 14:30:13 IST 2018  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Mon Mar 26 14:30:13 IST 2018  [debug] Created '20' parsers.
+Mon Mar 26 14:30:13 IST 2018  [trace] Velocimacro : initialization starting.
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : Default library not found.
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+Mon Mar 26 14:30:13 IST 2018  [debug] Velocimacro : autoload off : VM system will not automatically reload global library macros
+Mon Mar 26 14:30:13 IST 2018  [trace] Velocimacro : Velocimacro : initialization complete.
+Mon Mar 26 14:30:13 IST 2018  [trace] RuntimeInstance successfully initialized.
+Mon Mar 26 14:30:13 IST 2018  [debug] ResourceManager : found sql/load/Control.vm with loader org.apache.velocity.runtime.resource.ResourceCacheImpl

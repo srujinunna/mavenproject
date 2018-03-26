@@ -1,0 +1,125 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    Peers generated in package devops.om
+    Objects generated in package devops.om
+    Managers generated in package devops.om
+    Beans generated in package devops.om.bean
+
+    Created dir: E:\Practice\maven\project4\src\main\java/devops\om\
+
+    Failed to create dir or dir already exists: E:\Practice\maven\project4\src\main\java/devops\om\
+
+
+
+
+        table1
+
+        
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    Peers generated in package devops.om
+    Objects generated in package devops.om
+    Managers generated in package devops.om
+    Beans generated in package devops.om.bean
+
+    Failed to create dir or dir already exists: E:\Practice\maven\project4\src\main\java/devops\om\
+
+    Failed to create dir or dir already exists: E:\Practice\maven\project4\src\main\java/devops\om\
+
+
+
+
+        TURBINE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_GROUP
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+
+          
+
+          
+
+
+
